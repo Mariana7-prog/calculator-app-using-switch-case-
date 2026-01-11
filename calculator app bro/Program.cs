@@ -62,56 +62,10 @@
                     break;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             }
                 
 
-                
-
-
-
-
-
-
-                
-
-
-
-
-
-
-
-            Console.ReadKey();
-
-
+         Console.ReadKey();
 
 
         }
