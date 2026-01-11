@@ -7,12 +7,6 @@
             double num1 = 0; // here we declare our variables for our calculator app ( we use doubles ( decimal variables e.g 0, 5, -3 , 42 ) ) 
             double num2 = 0;
             double result=0; // here we put the result ( is initialise with 0 )
-
-            
-            
-            
-            
-            
             
             Console.WriteLine("Welcome to calculator app!"); // here we put some text 
             Console.WriteLine("-^-^-^-^-^-^-^-^-^-^-^"); // we can add some symbols ass well to make it more fun
